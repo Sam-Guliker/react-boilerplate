@@ -1,5 +1,5 @@
 # React Boilerplate
-This is a react boilerplate which has a nice :file_folder structure :eyes:  
+This is a react boilerplate which has a nice :file_folder: structure :eyes:  
 And added some tooling.
 
 # File Structure
@@ -33,4 +33,4 @@ Project
 # Tools
 - [x] Live reload
 - [x] Sass
-- [] Post Css
+- [ ] Post Css
